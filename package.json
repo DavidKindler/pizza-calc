@@ -33,6 +33,7 @@
     "jest": "20.0.4",
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
+
     "localforage": "^1.7.3",
     "lodash": "^4.17.4",
     "mobx": "3.6.2",
